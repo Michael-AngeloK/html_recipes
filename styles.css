@@ -1,0 +1,23 @@
+.header {
+    color: rgb(145, 255, 0);
+    font-size: 38px;
+    text-align: center;
+}
+
+.index.link {
+    font-size: 18px;
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    width: 200px;
+}
+
+
+.return {
+    text-align: center;
+}
